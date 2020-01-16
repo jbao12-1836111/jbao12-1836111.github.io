@@ -11,6 +11,25 @@
   transform: translate(-50%, -50%);
 }
 
+.left {
+  float: left;
+  width: 33.33%;
+  padding: 50px;
+}
+
+.right {
+  float: right;
+  width: 33.33%;
+  padding: 50px;
+}
+
+
+.right {
+  float: left;
+  width: 33.33%;
+  padding: 50px;
+}
+
 .rborder {
   border-radius: 25px;
   border: 2px dotted #0000AA;
