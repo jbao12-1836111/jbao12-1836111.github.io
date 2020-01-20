@@ -13,13 +13,13 @@
 
 .left {
   float: left;
-  width: 33.33%;
+  width: 10%;
   padding: 50px;
 }
 
 .right {
   float: right;
-  width: 33.33%;
+  width: 10%;
   padding: 50px;
 }
 
