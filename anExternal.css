@@ -14,13 +14,13 @@
 .left {
   float: left;
   width: 10%;
-  padding: 50px;
+  padding: 5px;
 }
 
 .right {
   float: right;
   width: 10%;
-  padding: 50px;
+  padding: 5px;
 }
 
 .rborder {
