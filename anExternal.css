@@ -23,13 +23,6 @@
   padding: 50px;
 }
 
-
-.right {
-  float: left;
-  width: 33.33%;
-  padding: 50px;
-}
-
 .rborder {
   border-width:5px;
   border-style:dotted;
