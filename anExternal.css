@@ -23,7 +23,8 @@
   padding: 5px;
 }
 
-.rborder {
-  border-width:5px;
-  border-style:dotted;
+.roundedborder {
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 25px;
 }
